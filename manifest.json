@@ -1,0 +1,11 @@
+{
+	"name": "izzz :(",
+	"version": "69.69.69",
+	"description": "i love her i love her i love her i love her :(((( <3",
+	"permissions": ["activeTab", "declarativeContent", "storage"],
+
+	"browser_action": {
+	  "default_popup": "popup.html"
+	},
+	"manifest_version": 2
+}
